@@ -25,6 +25,15 @@
       "online_utc": "2026-10-07T05:44:22Z",
       "port": 40900,
       "stun": "stun"
+    },
+    {
+      "ip": "120.225.20.135",
+      "lan": "192.168.26.1",
+      "nat": "symmetric",
+      "offline_utc": null,
+      "online_utc": "2026-10-07T05:45:55Z",
+      "port": 40473,
+      "stun": "stun"
     }
   ],
   "hw": {
@@ -62,7 +71,7 @@
       "total_mb": 16328
     }
   },
-  "last_beat_utc": "2026-10-07T05:44:56Z",
+  "last_beat_utc": "2026-10-07T05:45:55Z",
   "node": "P1",
   "tasks_done": 0,
   "tcp_port": 62726,
