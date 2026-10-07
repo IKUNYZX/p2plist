@@ -1,1 +1,1 @@
-{"free_mem_mb":9003,"gpu":true,"ip":"120.225.20.135","lan":"192.168.26.1","load":0.0,"node":"P1","port":40900,"relay":true,"tasks_done":0,"tasks_queued":0,"tasks_running":0,"ts":"2026-10-07T05:44:22Z","used_pool_mb":10,"version":"1.0.0"}
+{"free_mem_mb":9086,"gpu":true,"ip":"120.225.20.135","lan":"192.168.26.1","load":0.026975863700899196,"node":"P1","port":40900,"relay":true,"tasks_done":0,"tasks_queued":0,"tasks_running":0,"ts":"2026-10-07T05:44:55Z","used_pool_mb":10,"version":"1.0.0"}
