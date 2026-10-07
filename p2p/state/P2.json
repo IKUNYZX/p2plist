@@ -6,7 +6,7 @@
     "relay": true,
     "worker": true
   },
-  "created_utc": "2026-10-07T06:07:58Z",
+  "created_utc": "2026-10-07T06:08:00Z",
   "history": [],
   "hw": {
     "cpu": {
@@ -44,7 +44,7 @@
     }
   },
   "last_beat_utc": "",
-  "node": "",
+  "node": "P2",
   "tasks_done": 0,
   "tcp_port": 63921,
   "v": 1,
