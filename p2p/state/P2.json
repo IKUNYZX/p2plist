@@ -12,9 +12,18 @@
       "ip": "120.225.20.135",
       "lan": "192.168.26.1",
       "nat": "symmetric",
-      "offline_utc": null,
+      "offline_utc": "2026-10-07T06:08:10Z",
       "online_utc": "2026-10-07T06:08:03Z",
       "port": 40603,
+      "stun": "stun"
+    },
+    {
+      "ip": "120.225.20.135",
+      "lan": "192.168.26.1",
+      "nat": "symmetric",
+      "offline_utc": null,
+      "online_utc": "2026-10-07T06:08:13Z",
+      "port": 40614,
       "stun": "stun"
     }
   ],
@@ -53,7 +62,7 @@
       "total_mb": 16328
     }
   },
-  "last_beat_utc": "2026-10-07T06:08:03Z",
+  "last_beat_utc": "2026-10-07T06:08:13Z",
   "node": "P2",
   "tasks_done": 0,
   "tcp_port": 63921,
