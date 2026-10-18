@@ -6,7 +6,7 @@
     "relay": true,
     "worker": true
   },
-  "created_utc": "2026-10-18T03:56:58Z",
+  "created_utc": "2026-10-18T03:57:28Z",
   "history": [
     {
       "ip": "120.225.20.135",
@@ -54,7 +54,7 @@
     }
   },
   "last_beat_utc": "2026-10-18T03:57:01Z",
-  "node": "",
+  "node": "P3",
   "tasks_done": 0,
   "tcp_port": 65233,
   "v": 1,
